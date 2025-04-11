@@ -1,0 +1,12 @@
+{
+  "name": "arquitectura-monolitica-node",
+  "version": "1.0.0",
+  "description": "Ejemplo de arquitectura monolítica en Node.js",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
